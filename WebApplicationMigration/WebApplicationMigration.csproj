@@ -25,7 +25,7 @@
     <UseGlobalApplicationHostFile />
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
-    <_MigrateToProjectGuid>ac062e69-3890-4795-bfc2-27104042d320</_MigrateToProjectGuid>
+    <_MigrateToProjectGuid>6ccdc59a-9bf3-4ae1-a045-d156b68074c9</_MigrateToProjectGuid>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
